@@ -34,13 +34,6 @@ a:focus {
   box-shadow: none;
 }
 
-.wrapper {
-  /* position: relative;
-    width: 100%;
-    max-width: 1366px;
-    margin: 0 auto;
-    background: #ffffff; */
-}
 
 .back-to-top {
   position: fixed;
@@ -680,7 +673,7 @@ a:focus {
   font-size: 60px;
   line-height: 60px;
   background-image: linear-gradient(#ffffff, #ff9900);
-  -webkit-background-clip: text;
+  /* -webkit-background-clip: text; */
   -webkit-text-fill-color: transparent;
 }
 
@@ -1278,8 +1271,6 @@ a:focus {
 /*******************************/
 /*********** clients CSS **********/
 /*******************************/
-.client {
-}
 .client-title {
   color: #03155d;
   font-size: 50px;
@@ -1691,7 +1682,7 @@ a:focus {
 
 .sidebar .category-widget ul li span {
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 
 .sidebar .sidebar-widget .tag-widget {
@@ -2535,7 +2526,7 @@ ul.custom-flex {
 .siderbar-link-list ul li a {
   font-size: 20px;
   padding: 5px;
-  border-style: ;
+  /* border-style: ; */
 }
 /* ......................job-description end........................... */
 /* ......................job-innear-page.................. */
@@ -3049,21 +3040,7 @@ h1 {
   outline: none !important;
   border-color: none !important;
 }
-/* .btn {
-  color: #ffffff;
-  border: 1px solid #03155d;
-  background: #03155d;
-  border-radius: 5px;
-  text-transform: uppercase;
-  margin-top: 10px;
-  margin-left: 15px;
-}
-.btn:hover {
-  color: #082bb9 !important;
-  background: #ff9900;
-  border-color: #03155d;
-  border: 1px solid #ff9900;
-} */
+
 /* ..................................contact css end............................... */
 /* ..................................RECRUITMENT PROCESS css start............................... */
 .recu-pro-area {
