@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/demoradiantnepal/salmani-new.demo.radiantnepal.info/
+    - /bin/cp -r * $DEPLOYPATH
