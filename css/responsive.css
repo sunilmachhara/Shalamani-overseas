@@ -1,4 +1,10 @@
 @media only screen and (max-width: 1440px) {
+    .recu-pro-content p{
+        font-size: 12px;
+    }
+    .recu-pro-content ul li{
+        font-size: 12px;
+    }
 }
 @media only screen and (max-width: 1024px) {
   .nav-bar a.nav-link {
