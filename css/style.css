@@ -674,7 +674,7 @@ a:focus {
   font-size: 60px;
   line-height: 60px;
   background-image: linear-gradient(#ffffff, #ff9900);
-  /* -webkit-background-clip: text; */
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -3372,8 +3372,26 @@ color: #0062cc;
    color:#4183D7;
 }
 /* ................................mission document css end....................... */
-
-
-
+/* ...............................apply-from css start......................................... */
+.apply-area {
+  padding-top: 40px;
+    width: 100%;
+    padding: 100px;
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 12px;
+    margin-top: 22px;
+    margin-bottom: 40px;
+}
+.apply-form input {
+  border: none;
+  border-bottom: 1px solid;
+  margin-top: 20px;
+  display: flex;
+  align-content: center;
+  padding: 5px;
+  margin-bottom: 20px;
+  box-shadow: none;
+  border-color: #ced4da !important;
+}
+/* ...............................apply-from end......................................... */
 
  
